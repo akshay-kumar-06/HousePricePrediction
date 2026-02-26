@@ -49,7 +49,7 @@ warnings.filterwarnings("ignore")
 
 # ──────────────────────────── Page Config ────────────────────────
 st.set_page_config(
-    page_title="🏠 Housing Price Analyzer",
+    page_title="Housing Price Analyzer",
     page_icon="🏠",
     layout="wide",
     initial_sidebar_state="expanded",
