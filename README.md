@@ -55,8 +55,8 @@ A production-grade **Streamlit** web application for comprehensive housing price
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/akshay-kumar-06/RoomanTech_Assignment_HousePricePrediction
-   cd RoomanTech_Assignment_HousePricePrediction
+   git clone https://github.com/akshay-kumar-06/HousePricePrediction
+   cd HousePricePrediction
    ```
 
 2. **Create a virtual environment**
